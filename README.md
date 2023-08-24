@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anupreet</h1>
 <h3 align="center">A passionate Software Developer interested in Full-Stack development, Java Development, Mobile Application Development. I am always eager and willing to learn.</h3>
 
-- 🌱 I’m exploring **Amazon Web Services (AWS)**
+- 🌱 I’m currently exploring **Amazon Web Services (AWS) and developing RESTful APIs using Spring boot**
 
 - 👨‍💻 All of my projects are available at [https://anupreetttt.github.io/Portfolio/](https://anupreetttt.github.io/Portfolio/)
 
